@@ -4,7 +4,7 @@
 
 ## 在线阅读
 
-**[点击进入交互式数据新闻网页](https://thefuckbear.github.io/data_news_work/)**
+**[点击进入交互式数据新闻网页](https://TFKBear.github.io/data_news_work/)**
 
 项目使用 GitHub Pages 部署，无需安装软件，使用现代浏览器即可访问。页面包含滚动叙事、数据图表、交互式可视化和移动端适配。
 
